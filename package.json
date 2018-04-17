@@ -1,0 +1,21 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "npm stuff",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "keywords": [
+    "hangman"
+  ],
+  "author": "greg",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.2.0"
+  }
+}
