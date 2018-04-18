@@ -1,5 +1,5 @@
 //list of words to guess.
 exports.newWord = {
-    wordList:['Mario','Zelda','Donkey Kong','Zelda','Kirby','Samus','Luigi','Bowser','Koopa','Toad','Princess Peach','Yoshi','Wario'],
+    wordList:['MARIO','ZELDA','DONKEY KONG','ZELDA','KIRBY','SAMUS','LUIGI','BOWSER','KOOPA','TOAD','PRINCESS PEACH','YOSHI','WARIO'],
     hangman: ["\n\n\n\n\n\n\n-------------", "\n |\n |\n |\n |\n |\n |\n |\n-------------", "____________\n |         |\n |\n |\n |\n |\n |\n-------------","____________\n |         |\n |         O\n |\n |\n |\n |\n |\n-------------","____________\n |         |\n |         O\n |         |\n |         |\n |\n |\n |\n-------------","____________\n |         |\n |         O\n |         |\n |         |\n |        ---\n |\n |\n-------------", "____________\n |         |\n |         O\n |       __|\n |         |\n |        ---\n |\n |\n-------------", "____________\n |         |\n |         O\n |       __|__\n |         |\n |        ---\n |\n |\n-------------", "____________\n |         |\n |         O\n |       __|__\n |         |\n |        ---\n |        |\n |\n-------------","____________\n |         |\n |         O\n |       __|__\n |         |\n |        ---\n |        | |\n |\n-------------"]
   };
